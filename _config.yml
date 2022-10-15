@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/IMG_2561.tiff"
   bio              : "**inorganic chemist**, **materials scientist**, and **chemical engineer** synthesizing and studying the properties of solid-state materials for next-generation renewable energy and information technologies"
   location         : "San Francisco Bay Area, CA USA"
-  email            :
+  location         : "Stanford University"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
