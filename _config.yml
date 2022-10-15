@@ -138,9 +138,9 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:vigil@stanford.edu"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-graduation-cap"
+      url: https://scholar.google.com/citations?user=bIM_vDQAAAAJ&hl=en
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
