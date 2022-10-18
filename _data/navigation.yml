@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://google.com
   - title: "About"
-    url: /docs/_pages/about.md
+    url: /test/_pages/
   - title: "Select Publications"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Research Interests"
