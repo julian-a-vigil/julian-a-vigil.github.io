@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "Home"
-    url: https://google.com
+    url: https://julian-a-vigil.github.io
   - title: "About"
-    url: julian-a-vigil.github.io/test/_pages/
+    url: /_pages/about.md
   - title: "Select Publications"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /_pages/publications.md
   - title: "Research Interests"
-    url: /year-archive/
+    url: /_pages/research.md
